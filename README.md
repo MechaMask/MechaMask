@@ -47,7 +47,7 @@ I am currently mastering Full-Stack development, while leveraging a deep backgro
 ### 🎓 Education
 * **Graduate Degree in Artificial Intelligence**
     * *Algonquin College (Expected April 2026)*
-    * Focus: Artificial Intellignece, Full Stack Web Development,.
+    * Focus: Artificial Intelligence, Full Stack Web Development,.
 * **Honours BSc Computer Science & Minor of Philosophy**
     * *University of Ottawa (April 2023)*
     * Focus: AI, Simulations, Real-Time Systems

@@ -40,7 +40,7 @@ I am currently mastering Full-Stack development, while leveraging a deep backgro
 * **The Result:** High-performance modeling of biological foraging patterns through parallelized agent updates.
 
 > [!TIP]
-> **[▶ Click here to view the Simulation Video (AVI)](YOUR_LINK_HERE)**
+> ![Slime Simulation](slime_demo.gif)
 
 ---
 
